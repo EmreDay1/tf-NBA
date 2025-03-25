@@ -1,2 +1,2 @@
 # tf-NBA
-Tensorflow based stat anylisis by a long time NBA enthusiast
+Tensorflow based player/team anylisis by a long time NBA enthusiast
